@@ -24,14 +24,14 @@ You can check out a live demo of the Insta Feed UI project [here](https://rahulr
 <img src="https://github.com/rahulrwt05/30-days-of-js/blob/main/images/insta_feed.png" width="100%" height="400">
 
 *Screenshot showcasing the Insta Feed UI project*
-
-![Screenshot 2](images/like_feature.png)
+<div align="centre">
+<img src="images/like_feature.png" width="300px" height="300"></div>
 *Screenshot highlighting the interactive like feature*
 
-![Screenshot 3](images/story_scroll.png)
+<img src="images/story_scroll.png" width="100%" height="400">
 *Screenshot displaying the scrolling through stories*
 
-![Screenshot 4](images/story_view.png)
+<img src="images/story_view.png" width="100%" height="400">
 *Screenshot showcasing the full screen view of  story*
 
 
