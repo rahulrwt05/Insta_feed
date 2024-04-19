@@ -1,0 +1,153 @@
+/* Global styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Gilroy";
+}
+
+/* Body and HTML styles */
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: cornflowerblue;
+}
+
+/* Main container styles */
+.box {
+  position: relative;
+  flex-direction: column;
+  justify-content: space-evenly;
+  display: flex;
+  height: 600px;
+  width: 400px;
+  background-color: white;
+  align-items: center;
+  border-radius: 10px;
+  border: 3px solid black;
+}
+
+/* Fullscreen display */
+.fullscreen {
+  height: 100%;
+  width: 100%;
+  display: none;
+  background-size: cover;
+  background-position: center;
+  position: absolute;
+}
+
+/* Navigation styles */
+.nav {
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 10px;
+  white-space: nowrap;
+  height: 90px;
+  width: 100%;
+  border-bottom: 3px solid lightpink;
+}
+
+/* Hide scrollbar */
+.nav::-webkit-scrollbar {
+  display: none;
+}
+
+/* Individual story styles */
+.story {
+  margin-right: 3px;
+  display: inline-block;
+  height: 70px;
+  border-radius: 50%;
+  padding: 2px;
+  background: linear-gradient(
+    blue,
+    rgba(255, 117, 140, 0.893),
+    purple,
+    yellow,
+    rgb(255, 89, 0)
+  );
+  width: 70px;
+  overflow: hidden;
+}
+
+/* Image inside story */
+.story img {
+  height: 100%;
+  width: 100%;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  object-position: center;
+}
+
+/* Image container styles */
+.ih img {
+  border-radius: 10px;
+  height: 300px;
+  width: 250px;
+  object-position: center;
+  object-fit: fill;
+}
+
+/* Image container */
+.ih {
+  margin-top: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 300px;
+  width: 300px;
+}
+
+/* Liked icon styles */
+#liked {
+  position: absolute;
+  top: 35%;
+  left: 40%;
+  font-size: 60px;
+  color: red;
+  transform: scale(0);
+  transition: transform ease 0.5s;
+  opacity: 0.8;
+}
+
+/* Header and like button styles */
+.hl {
+  width: 80%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/* Like button icon styles */
+#clicklike {
+  color: red;
+  font-size: 50px;
+}
+
+/* Status styles */
+#fors {
+  margin-bottom: 15px;
+  color: red;
+  font-family: "Gill Sans", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Friend button styles */
+#but {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  height: 60px;
+  padding: 5px;
+  color: whitesmoke;
+  font-size: 20px;
+  width: 100px;
+  background-color: green;
+  border-radius: 5px;
+}
