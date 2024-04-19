@@ -2,18 +2,9 @@
 
 Welcome to Insta Feed UI project! This project focuses on recreating the user interface of Instagram's feed to provide a similar browsing experience.
 
-## Overview
-
-Insta Feed UI aims to replicate the core features and design elements of Instagram's feed, allowing users to:
-
-- Scroll through a grid of posts.
-- Like and comment on posts.
-- View stories at the top of the feed.
-
 ## Features
 
-- **Post Grid:** Display posts in a grid layout similar to Instagram.
-- **Interaction:** Like and comment on posts, just like in the real Instagram feed.
+- **Interaction:** Like animation with pop up heart.
 - **Stories:** View stories at the top of the feed, with the ability to tap on each story to view it.
 
 ## Technologies Used
