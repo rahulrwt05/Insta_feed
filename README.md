@@ -21,7 +21,7 @@ You can check out a live demo of the Insta Feed UI project [here](https://rahulr
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/insta_feed.png){:height="300px" width="500px"}
+![Screenshot 1](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/insta_feed.png){:height="200px" width="300px"}
 *Screenshot showcasing the Insta Feed UI project*
 
 ![Screenshot 2](images/like_feature.png)
