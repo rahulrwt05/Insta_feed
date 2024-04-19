@@ -30,10 +30,18 @@ You can check out a live demo of the Insta Feed UI project [here](#).
 
 ## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-*Caption for screenshot 1*
+![Screenshot 1](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/insta_feed.png)
+*Screenshot showcasing the Insta Feed UI project*
 
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 2](images/like_feature.png)
+*Screenshot highlighting the interactive like feature*
+
+![Screenshot 3](images/story_scroll.png)
+*Screenshot displaying the scrolling through stories*
+
+![Screenshot 4](images/story_view.png)
+*Screenshot showcasing the full screen view of  story*
+
 
 
 ## Usage
