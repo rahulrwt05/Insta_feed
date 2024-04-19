@@ -5,7 +5,7 @@ Welcome to Insta Feed UI project! This project focuses on recreating the user in
 ## Features
 
 - **Interaction:** Like animation with pop up heart.
-- **Stories:** View stories at the top of the feed, with the ability to tap on each story to view it.
+- **Stories:** View and scroll stories at the top of the feed, with the ability to tap on each story to view it.
 
 ## Technologies Used
 
@@ -17,11 +17,11 @@ This project is built using the following technologies:
 
 ## Demo
 
-You can check out a live demo of the Insta Feed UI project [here](#).
+You can check out a live demo of the Insta Feed UI project [here](https://rahulrwt05.github.io/Insta_feed/).
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/insta_feed.png)
+![Screenshot 1](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/insta_feed.png){:height="300px" width="500px"}
 *Screenshot showcasing the Insta Feed UI project*
 
 ![Screenshot 2](images/like_feature.png)
