@@ -24,8 +24,8 @@ You can check out a live demo of the Insta Feed UI project [here](https://rahulr
 <img src="https://github.com/rahulrwt05/30-days-of-js/blob/main/images/insta_feed.png" width="100%" height="400">
 
 *Screenshot showcasing the Insta Feed UI project*
-<div align="centre">
-<img src="images/like_feature.png" width="300px" height="300"></div>
+<p align="centre">
+<img src="images/like_feature.png" width="300px" height="300"></p>
 *Screenshot highlighting the interactive like feature*
 
 <img src="images/story_scroll.png" width="100%" height="400">
