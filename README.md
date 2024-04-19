@@ -51,3 +51,15 @@ Contributions are welcome! If you'd like to contribute to this project, feel fre
 
 ---
 Feel free to customize this template with specific details about your project, such as adding screenshots, providing more detailed instructions for running the project locally, and including any additional features or functionalities you've implemented.
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />][linkedin]
+
+<br />
+
+[website]: https://rahulrwt05.vercel.app/
+[linkedin]: https://www.linkedin.com/in/rahulrwt05/
+
+Happy coding! 🚀
